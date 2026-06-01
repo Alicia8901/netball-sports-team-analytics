@@ -1,0 +1,13 @@
+"registration_id","player_id","fixture_id","availability_status"
+1,1,1,Available
+2,2,1,Available
+3,3,1,Unavailable
+4,4,2,Available
+5,5,2,Available
+6,6,2,Unavailable
+7,7,3,Available
+8,8,3,Available
+9,9,3,Available
+10,10,4,Unavailable
+11,1,4,Available
+12,5,4,Available
